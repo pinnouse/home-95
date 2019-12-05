@@ -1,29 +1,9 @@
-# home
+# Home
+New home site, that's what it is.
+Delicious.
 
-## Project setup
-```
-npm install
-```
+Inspiration from *boomer* Windows.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+Made in Vue and with ❤.
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+[to website](https://nwong.xyz)

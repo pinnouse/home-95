@@ -6,4 +6,4 @@ Inspiration from *boomer* Windows.
 
 Made in Vue and with ❤.
 
-[to website](https://nwong.xyz)
+[to website](https://gnowbros.com/home-95)

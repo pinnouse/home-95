@@ -16,7 +16,7 @@
             <br />
             Twitter: <a href="https://twitter.com/pinnouse" target="_blank" rel="noopener">@pinnouse</a>
             <br />
-            Email: <a href="mailto:futawong@owo.soy" target="_blank" rel="noopener">futawong@owo.soy</a>
+            Email: <a href="mailto:nichol.wong@mail.utoronto.ca" target="_blank" rel="noopener">nichol.wong@mail.utoronto.ca</a>
             <br />
             Discord: <span class="mention">pinnouse#7766</span>
         </p>
